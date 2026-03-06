@@ -7,7 +7,7 @@
     {
       "title": "/a/ - Anime & Manga",
       "directoryCode": "a",
-      "communityAddress": "anime-and-manga.eth",
+      "communityAddress": "anime-and-manga.bso",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -23,7 +23,7 @@
     {
       "title": "/ck/ - Food & Cooking",
       "directoryCode": "ck",
-      "communityAddress": "food-and-cooking.eth",
+      "communityAddress": "food-and-cooking.bso",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -39,7 +39,7 @@
     {
       "title": "/pol/ - Politically Incorrect",
       "directoryCode": "pol",
-      "communityAddress": "politically-incorrect.eth",
+      "communityAddress": "politically-incorrect.bso",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": false,
@@ -55,7 +55,7 @@
     {
       "title": "/biz/ - Business & Finance",
       "directoryCode": "biz",
-      "communityAddress": "business-and-finance.eth",
+      "communityAddress": "business-and-finance.bso",
       "features": {
         "pseudonymityMode": "per-post",
         "safeForWork": true,
@@ -71,7 +71,7 @@
     {
       "title": "/sci/ - Science & Math",
       "directoryCode": "sci",
-      "communityAddress": "science-and-math.eth",
+      "communityAddress": "science-and-math.bso",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -87,7 +87,7 @@
     {
       "title": "/g/ - Technology",
       "directoryCode": "g",
-      "communityAddress": "technology-posting.eth",
+      "communityAddress": "technology-posting.bso",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -103,7 +103,7 @@
     {
       "title": "/vg/ - Video Game Generals",
       "directoryCode": "vg",
-      "communityAddress": "videogame-generals.eth",
+      "communityAddress": "videogame-generals.bso",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -119,7 +119,7 @@
     {
       "title": "/fit/ - Fitness",
       "directoryCode": "fit",
-      "communityAddress": "fitness-posting.eth",
+      "communityAddress": "fitness-posting.bso",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -135,7 +135,7 @@
     {
       "title": "/adv/ - Advice",
       "directoryCode": "adv",
-      "communityAddress": "advice-posting.eth",
+      "communityAddress": "advice-posting.bso",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -151,7 +151,7 @@
     {
       "title": "/wsg/ - Worksafe GIF",
       "directoryCode": "wsg",
-      "communityAddress": "worksafe-gif.eth",
+      "communityAddress": "worksafe-gif.bso",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -167,7 +167,7 @@
     {
       "title": "/diy/ - Do It Yourself",
       "directoryCode": "diy",
-      "communityAddress": "do-it-yourself.eth",
+      "communityAddress": "do-it-yourself.bso",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -183,7 +183,7 @@
     {
       "title": "/out/ - Outdoors",
       "directoryCode": "out",
-      "communityAddress": "outdoors-posting.eth",
+      "communityAddress": "outdoors-posting.bso",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -199,7 +199,7 @@
     {
       "title": "/ic/ - Artwork/Critique",
       "directoryCode": "ic",
-      "communityAddress": "artwork-critique.eth",
+      "communityAddress": "artwork-critique.bso",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -215,7 +215,7 @@
     {
       "title": "/mu/ - Music",
       "directoryCode": "mu",
-      "communityAddress": "music-posting.eth",
+      "communityAddress": "music-posting.bso",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -231,7 +231,7 @@
     {
       "title": "/int/ - International",
       "directoryCode": "int",
-      "communityAddress": "international-sfw.eth",
+      "communityAddress": "international-sfw.bso",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -247,7 +247,7 @@
     {
       "title": "/lit/ - Literature",
       "directoryCode": "lit",
-      "communityAddress": "literature-posting.eth",
+      "communityAddress": "literature-posting.bso",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -263,7 +263,7 @@
     {
       "title": "/tv/ - Television & Film",
       "directoryCode": "tv",
-      "communityAddress": "television-and-film.eth",
+      "communityAddress": "television-and-film.bso",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -279,7 +279,7 @@
     {
       "title": "/vip/ - Very Important Posts",
       "directoryCode": "vip",
-      "communityAddress": "very-important-posts.eth",
+      "communityAddress": "very-important-posts.bso",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -295,7 +295,7 @@
     {
       "title": "/gif/ - Adult GIF",
       "directoryCode": "gif",
-      "communityAddress": "adult-gif.eth",
+      "communityAddress": "adult-gif.bso",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": false,
@@ -311,7 +311,7 @@
     {
       "title": "/bant/ - International/Random",
       "directoryCode": "bant",
-      "communityAddress": "international-nsfw.eth",
+      "communityAddress": "international-nsfw.bso",
       "features": {
         "pseudonymityMode": "per-post",
         "safeForWork": false,
@@ -327,7 +327,7 @@
     {
       "title": "/b/ - Random",
       "directoryCode": "b",
-      "communityAddress": "random-nsfw.eth",
+      "communityAddress": "random-nsfw.bso",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": false,
