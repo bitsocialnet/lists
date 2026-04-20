@@ -2,7 +2,7 @@
   "title": "/all/ - All 5chan Directories",
   "description": "Each 5chan directory is assigned to a board handpicked by the team, until DAO curation is implemented.\n\nhttps://github.com/bitsocialnet/lists/blob/master/5chan-directories.json",
   "createdAt": 1762179811,
-  "updatedAt": 1776065598,
+  "updatedAt": 1776670381,
   "directories": [
     {
       "title": "/a/ - Anime & Manga",
@@ -20,6 +20,23 @@
       },
       "name": "anime-and-manga.bso",
       "publicKey": "12D3KooWMDt3RMVMHrm2pEEyfraBtHP86dmkim7EVAapDj3Mchdy"
+    },
+    {
+      "title": "/co/ - Comics & Cartoons",
+      "directoryCode": "co",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": false,
+        "noSpoilerReplies": false,
+        "postsPerPage": 15
+      },
+      "name": "comics-and-cartoons.eth",
+      "publicKey": "12D3KooWHv54qxERJQkpum4JrbrEvyz3CZHB1wV4C3A76oNrGMPk"
     },
     {
       "title": "/ck/ - Food & Cooking",
@@ -124,6 +141,23 @@
       "publicKey": "12D3KooWMvAcJFV45CS3hSZcx7EFhwhQrXfXhVHXQJFPfKeakWfq"
     },
     {
+      "title": "/vr/ - Retro Games",
+      "directoryCode": "vr",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": false,
+        "noSpoilerReplies": false,
+        "postsPerPage": 15
+      },
+      "name": "retro-games.eth",
+      "publicKey": "12D3KooWAz1vMmM7bpg5GQWRkSkyYLgmxWAPdig5DtsBWoJxjqbr"
+    },
+    {
       "title": "/fit/ - Fitness",
       "directoryCode": "fit",
       "features": {
@@ -139,6 +173,40 @@
       },
       "name": "fitness-posting.bso",
       "publicKey": "12D3KooWHcqcJJmjAiBJA3uyhSW6ep4HFadUfteDrzU1Pn9ALkkw"
+    },
+    {
+      "title": "/sp/ - Sports",
+      "directoryCode": "sp",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": true,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": true,
+        "noSpoilerReplies": true,
+        "postsPerPage": 15
+      },
+      "name": "sports-posting.eth",
+      "publicKey": "12D3KooWR3dYsFMt3nngkyi1xSRrNNKgobDxnMXWvKxU2TRGtarY"
+    },
+    {
+      "title": "/tg/ - Traditional Games",
+      "directoryCode": "tg",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": true,
+        "noSpoilerReplies": true,
+        "postsPerPage": 15
+      },
+      "name": "traditional-games.eth",
+      "publicKey": "12D3KooWF1SqLGtDUFqHLMwyH7HxrcvXQCunADdk1ms86XgDhayj"
     },
     {
       "title": "/adv/ - Advice",
@@ -309,6 +377,23 @@
       },
       "name": "television-and-film.bso",
       "publicKey": "12D3KooWGSRg4crzV5vXEya1ghXD7UBTqimqXTQvNUqy9NdzZNyd"
+    },
+    {
+      "title": "/x/ - Paranormal",
+      "directoryCode": "x",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": true,
+        "noSpoilerReplies": true,
+        "postsPerPage": 15
+      },
+      "name": "paranormal-posting.eth",
+      "publicKey": "12D3KooWA5u5kehBsVmtih7hekkje8DFxMyuqRcqhhS5rLtnUXnG"
     },
     {
       "title": "/vip/ - Very Important Posts",
