@@ -2,7 +2,7 @@
   "title": "/all/ - All 5chan Directories",
   "description": "Each 5chan directory is assigned to a board handpicked by the team, until DAO curation is implemented.\n\nhttps://github.com/bitsocialnet/lists/blob/master/5chan-directories.json",
   "createdAt": 1762179811,
-  "updatedAt": 1776674018,
+  "updatedAt": 1776676271,
   "directories": [
     {
       "title": "/a/ - Anime & Manga",
@@ -35,8 +35,8 @@
         "noSpoilerReplies": false,
         "postsPerPage": 15
       },
-      "name": "comics-and-cartoons.eth",
-      "publicKey": "12D3KooWHv54qxERJQkpum4JrbrEvyz3CZHB1wV4C3A76oNrGMPk"
+      "name": "comics-and-cartoons.bso",
+      "publicKey": "12D3KooWRLmyg671KVYb1xekZ8eTQSMfRraB3DmQZPsKbCdMsEuc"
     },
     {
       "title": "/ck/ - Food & Cooking",
@@ -124,6 +124,23 @@
       "publicKey": "12D3KooWFnLrUYHpvqki7gbL4w9JzdxjpQPKE2JBDEd23Ly6X82X"
     },
     {
+      "title": "/v/ - Video Games",
+      "directoryCode": "v",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": false,
+        "noSpoilerReplies": false,
+        "postsPerPage": 15
+      },
+      "name": "videogames-posting.bso",
+      "publicKey": "12D3KooWRAbo3HU5ThCAkJGQ5q7MTEJfhAX6Hu7xHyPtxHGi1Fgh"
+    },
+    {
       "title": "/vg/ - Video Game Generals",
       "directoryCode": "vg",
       "features": {
@@ -154,8 +171,8 @@
         "noSpoilerReplies": false,
         "postsPerPage": 15
       },
-      "name": "retro-games.eth",
-      "publicKey": "12D3KooWAz1vMmM7bpg5GQWRkSkyYLgmxWAPdig5DtsBWoJxjqbr"
+      "name": "retro-games.bso",
+      "publicKey": "12D3KooWJfwp2WRwU3gsaNNPjZ1iHgxc1QFySr361cQarkhLp1fY"
     },
     {
       "title": "/fit/ - Fitness",
@@ -188,8 +205,8 @@
         "noSpoilerReplies": true,
         "postsPerPage": 15
       },
-      "name": "sports-posting.eth",
-      "publicKey": "12D3KooWR3dYsFMt3nngkyi1xSRrNNKgobDxnMXWvKxU2TRGtarY"
+      "name": "sports-posting.bso",
+      "publicKey": "12D3KooWGJA6zN3Q63FtSgwNhtfA26Skdzdxz5X7A9PFfE4FBMGE"
     },
     {
       "title": "/tg/ - Traditional Games",
@@ -205,8 +222,8 @@
         "noSpoilerReplies": false,
         "postsPerPage": 15
       },
-      "name": "traditional-games.eth",
-      "publicKey": "12D3KooWF1SqLGtDUFqHLMwyH7HxrcvXQCunADdk1ms86XgDhayj"
+      "name": "traditional-games.bso",
+      "publicKey": "12D3KooWK6G3EHUCkfcgX6kPDihXJAdpucrZvn4WjPwf7fF484nt"
     },
     {
       "title": "/adv/ - Advice",
@@ -392,8 +409,8 @@
         "noSpoilerReplies": true,
         "postsPerPage": 15
       },
-      "name": "paranormal-posting.eth",
-      "publicKey": "12D3KooWA5u5kehBsVmtih7hekkje8DFxMyuqRcqhhS5rLtnUXnG"
+      "name": "paranormal-posting.bso",
+      "publicKey": "12D3KooWFZn7r5gYKbq5YQMr1FYQ5eUwoZr41Tjd8KmTgQ4dxTTP"
     },
     {
       "title": "/vip/ - Very Important Posts",
