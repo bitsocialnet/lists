@@ -6,6 +6,12 @@ Submit a pull request to have your community added, or contact devs on Telegram 
 
 In the future, this process will be automated by voting.
 
+## Repository layout
+
+- `5chan-directories/5chan-directories.json`: the main 5chan directory assignment list.
+- `5chan-directories/5chan-<code>-directory.json`: candidate boards for each 5chan directory code.
+- Root JSON files are shared lists for other Bitsocial clients or challenge configuration.
+
 >### What is this?
 This list is used to show communities by default in our clients' homepages, automatically subscribing all our users to them.
 
