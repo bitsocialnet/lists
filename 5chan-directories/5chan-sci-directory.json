@@ -1,16 +1,11 @@
 {
-  "title": "/sci/ - Science & Math Directory",
   "description": "Boards competing to host the /sci/ directory on 5chan. The highest-scoring board resolves the directory code; if it goes offline, 5chan rotates to the next-highest. Anyone can open a PR on this file to add their board.\n\nhttps://github.com/bitsocialnet/lists/blob/master/5chan-directories/5chan-sci-directory.json",
-  "directoryCode": "sci",
   "createdAt": 1779182014,
   "updatedAt": 1779182014,
   "boards": [
     {
-      "title": "/sci/ - Science & Math",
       "address": "science-and-math.bso",
       "publicKey": "12D3KooWEtHqwtEpgHsXS8VSFcGDt2DhzeqaLm9tTCRFucXaWp62",
-      "score": 0,
-      "managedByDevs": true,
       "addedAt": 1779182014,
       "owner": "plebeius.bso"
     }

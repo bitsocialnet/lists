@@ -9,7 +9,7 @@ In the future, this process will be automated by voting.
 ## Repository Layout
 
 - `5chan-directories/5chan-<code>-directory.json`: candidate boards for each 5chan directory code. 5chan builds the active directory list by reading these files and choosing the highest-ranked board in each file.
-- `5chan-directories/5chan-directories-defaults.json`: expected 5chan UX defaults keyed by directory code. These defaults apply to the directory, not to individual candidate boards.
+- `5chan-directories/5chan-directories-defaults.json`: expected 5chan UX defaults keyed by directory code, including directory identity, title, and feature defaults. These defaults apply to the directory, not to individual candidate boards.
 - Root JSON files are shared lists for other Bitsocial clients or challenge configuration.
 
 >### What is this?

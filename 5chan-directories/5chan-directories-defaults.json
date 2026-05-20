@@ -2,9 +2,11 @@
   "title": "5chan Directory Defaults",
   "description": "Expected 5chan UX defaults by directory code. These defaults apply to the directory, not to individual candidate boards.",
   "createdAt": 1779262179,
-  "updatedAt": 1779262963,
+  "updatedAt": 1779279785,
   "directories": {
     "a": {
+      "directoryCode": "a",
+      "title": "/a/ - Anime & Manga",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -18,6 +20,8 @@
       }
     },
     "adv": {
+      "directoryCode": "adv",
+      "title": "/adv/ - Advice",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -31,6 +35,8 @@
       }
     },
     "an": {
+      "directoryCode": "an",
+      "title": "/an/ - Animals & Nature",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -44,6 +50,8 @@
       }
     },
     "b": {
+      "directoryCode": "b",
+      "title": "/b/ - Random",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": false,
@@ -57,6 +65,8 @@
       }
     },
     "bant": {
+      "directoryCode": "bant",
+      "title": "/bant/ - International/Random",
       "features": {
         "pseudonymityMode": "per-post",
         "safeForWork": false,
@@ -70,6 +80,8 @@
       }
     },
     "biz": {
+      "directoryCode": "biz",
+      "title": "/biz/ - Business & Finance",
       "features": {
         "pseudonymityMode": "per-post",
         "safeForWork": true,
@@ -83,6 +95,8 @@
       }
     },
     "ck": {
+      "directoryCode": "ck",
+      "title": "/ck/ - Food & Cooking",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -96,6 +110,8 @@
       }
     },
     "co": {
+      "directoryCode": "co",
+      "title": "/co/ - Comics & Cartoons",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -109,6 +125,8 @@
       }
     },
     "diy": {
+      "directoryCode": "diy",
+      "title": "/diy/ - Do It Yourself",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -122,6 +140,8 @@
       }
     },
     "fit": {
+      "directoryCode": "fit",
+      "title": "/fit/ - Fitness",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -135,6 +155,8 @@
       }
     },
     "g": {
+      "directoryCode": "g",
+      "title": "/g/ - Technology",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -148,6 +170,8 @@
       }
     },
     "gif": {
+      "directoryCode": "gif",
+      "title": "/gif/ - Adult GIF",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": false,
@@ -161,6 +185,8 @@
       }
     },
     "his": {
+      "directoryCode": "his",
+      "title": "/his/ - History & Humanities",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -174,6 +200,8 @@
       }
     },
     "ic": {
+      "directoryCode": "ic",
+      "title": "/ic/ - Artwork/Critique",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -187,6 +215,8 @@
       }
     },
     "int": {
+      "directoryCode": "int",
+      "title": "/int/ - International",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -200,6 +230,8 @@
       }
     },
     "lit": {
+      "directoryCode": "lit",
+      "title": "/lit/ - Literature",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -213,6 +245,8 @@
       }
     },
     "mu": {
+      "directoryCode": "mu",
+      "title": "/mu/ - Music",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -226,6 +260,8 @@
       }
     },
     "out": {
+      "directoryCode": "out",
+      "title": "/out/ - Outdoors",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -239,6 +275,8 @@
       }
     },
     "pol": {
+      "directoryCode": "pol",
+      "title": "/pol/ - Politically Incorrect",
       "features": {
         "pseudonymityMode": "per-post",
         "safeForWork": false,
@@ -252,6 +290,8 @@
       }
     },
     "sci": {
+      "directoryCode": "sci",
+      "title": "/sci/ - Science & Math",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -265,6 +305,8 @@
       }
     },
     "sp": {
+      "directoryCode": "sp",
+      "title": "/sp/ - Sports",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -278,6 +320,8 @@
       }
     },
     "t": {
+      "directoryCode": "t",
+      "title": "/t/ - Torrents",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": false,
@@ -291,6 +335,8 @@
       }
     },
     "tg": {
+      "directoryCode": "tg",
+      "title": "/tg/ - Traditional Games",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -304,6 +350,8 @@
       }
     },
     "tv": {
+      "directoryCode": "tv",
+      "title": "/tv/ - Television & Film",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -317,6 +365,8 @@
       }
     },
     "v": {
+      "directoryCode": "v",
+      "title": "/v/ - Video Games",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -330,6 +380,8 @@
       }
     },
     "vg": {
+      "directoryCode": "vg",
+      "title": "/vg/ - Video Game Generals",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -343,6 +395,8 @@
       }
     },
     "vip": {
+      "directoryCode": "vip",
+      "title": "/vip/ - Very Important Posts",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -356,6 +410,8 @@
       }
     },
     "vr": {
+      "directoryCode": "vr",
+      "title": "/vr/ - Retro Games",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -369,6 +425,8 @@
       }
     },
     "wsg": {
+      "directoryCode": "wsg",
+      "title": "/wsg/ - Worksafe GIF",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -382,6 +440,8 @@
       }
     },
     "x": {
+      "directoryCode": "x",
+      "title": "/x/ - Paranormal",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
