@@ -1,0 +1,19 @@
+{
+  "title": "/an/ - Animals & Nature Directory",
+  "description": "Boards competing to host the /an/ directory on 5chan. The highest-scoring board resolves the directory code; if it goes offline, 5chan rotates to the next-highest. Anyone can open a PR on this file to add their board.\n\nhttps://github.com/bitsocialnet/lists/blob/master/5chan-directories/5chan-an-directory.json",
+  "directoryCode": "an",
+  "createdAt": 1779262963,
+  "updatedAt": 1779262963,
+  "boards": [
+    {
+      "title": "/an/ - Animals & Nature",
+      "address": "animals-and-nature.bso",
+      "publicKey": "12D3KooWSpKszPM2c17KBgbnoRrkWPCHJosGGFg3bKnzarYhHeSc",
+      "score": 0,
+      "managedByDevs": true,
+      "addedAt": 1779262963,
+      "owner": "plebeius.bso"
+    }
+  ],
+  "displayOrder": 29
+}
