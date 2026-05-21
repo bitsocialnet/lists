@@ -2,8 +2,23 @@
   "title": "5chan Directory Defaults",
   "description": "Expected 5chan UX defaults by directory code. These defaults apply to the directory, not to individual candidate boards.",
   "createdAt": 1779262179,
-  "updatedAt": 1779279785,
+  "updatedAt": 1779357555,
   "directories": {
+    "3": {
+      "directoryCode": "3",
+      "title": "/3/ - 3DCG",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": true,
+        "noSpoilerReplies": true,
+        "postsPerPage": 15
+      }
+    },
     "a": {
       "directoryCode": "a",
       "title": "/a/ - Anime & Manga",
@@ -94,6 +109,21 @@
         "postsPerPage": 20
       }
     },
+    "c": {
+      "directoryCode": "c",
+      "title": "/c/ - Anime/Cute",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": true,
+        "noSpoilerReplies": true,
+        "postsPerPage": 15
+      }
+    },
     "ck": {
       "directoryCode": "ck",
       "title": "/ck/ - Food & Cooking",
@@ -127,6 +157,21 @@
     "diy": {
       "directoryCode": "diy",
       "title": "/diy/ - Do It Yourself",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": true,
+        "noSpoilerReplies": true,
+        "postsPerPage": 15
+      }
+    },
+    "fa": {
+      "directoryCode": "fa",
+      "title": "/fa/ - Fashion",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -229,6 +274,21 @@
         "postsPerPage": 15
       }
     },
+    "k": {
+      "directoryCode": "k",
+      "title": "/k/ - Weapons",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": true,
+        "noSpoilerReplies": true,
+        "postsPerPage": 15
+      }
+    },
     "lit": {
       "directoryCode": "lit",
       "title": "/lit/ - Literature",
@@ -244,9 +304,84 @@
         "postsPerPage": 15
       }
     },
+    "m": {
+      "directoryCode": "m",
+      "title": "/m/ - Mecha",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": false,
+        "noSpoilerReplies": false,
+        "postsPerPage": 15
+      }
+    },
+    "mlp": {
+      "directoryCode": "mlp",
+      "title": "/mlp/ - Pony",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": true,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": false,
+        "noSpoilerReplies": false,
+        "postsPerPage": 15
+      }
+    },
     "mu": {
       "directoryCode": "mu",
       "title": "/mu/ - Music",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": true,
+        "noSpoilerReplies": true,
+        "postsPerPage": 15
+      }
+    },
+    "n": {
+      "directoryCode": "n",
+      "title": "/n/ - Transportation",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": true,
+        "noSpoilerReplies": true,
+        "postsPerPage": 15
+      }
+    },
+    "news": {
+      "directoryCode": "news",
+      "title": "/news/ - Current News",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": false,
+        "requirePostLinkIsMedia": false,
+        "bumpLimit": 300,
+        "noSpoilers": false,
+        "noSpoilerReplies": false,
+        "postsPerPage": 15
+      }
+    },
+    "o": {
+      "directoryCode": "o",
+      "title": "/o/ - Auto",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
@@ -274,6 +409,21 @@
         "postsPerPage": 15
       }
     },
+    "p": {
+      "directoryCode": "p",
+      "title": "/p/ - Photography",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": true,
+        "noSpoilerReplies": true,
+        "postsPerPage": 15
+      }
+    },
     "pol": {
       "directoryCode": "pol",
       "title": "/pol/ - Politically Incorrect",
@@ -289,12 +439,42 @@
         "postsPerPage": 20
       }
     },
+    "pw": {
+      "directoryCode": "pw",
+      "title": "/pw/ - Professional Wrestling",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": true,
+        "noSpoilerReplies": true,
+        "postsPerPage": 15
+      }
+    },
     "sci": {
       "directoryCode": "sci",
       "title": "/sci/ - Science & Math",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": true,
+        "noSpoilerReplies": true,
+        "postsPerPage": 15
+      }
+    },
+    "soc": {
+      "directoryCode": "soc",
+      "title": "/soc/ - Cams & Meetups",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": false,
         "hasFlags": false,
         "requirePostLink": true,
         "requirePostLinkIsMedia": true,
@@ -346,6 +526,36 @@
         "bumpLimit": 300,
         "noSpoilers": false,
         "noSpoilerReplies": false,
+        "postsPerPage": 15
+      }
+    },
+    "toy": {
+      "directoryCode": "toy",
+      "title": "/toy/ - Toys",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": true,
+        "noSpoilerReplies": true,
+        "postsPerPage": 15
+      }
+    },
+    "trv": {
+      "directoryCode": "trv",
+      "title": "/trv/ - Travel",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": true,
+        "noSpoilerReplies": true,
         "postsPerPage": 15
       }
     },
@@ -409,6 +619,36 @@
         "postsPerPage": 15
       }
     },
+    "vm": {
+      "directoryCode": "vm",
+      "title": "/vm/ - Video Games/Multiplayer",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": false,
+        "noSpoilerReplies": false,
+        "postsPerPage": 15
+      }
+    },
+    "vp": {
+      "directoryCode": "vp",
+      "title": "/vp/ - Pokémon",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": false,
+        "noSpoilerReplies": false,
+        "postsPerPage": 15
+      }
+    },
     "vr": {
       "directoryCode": "vr",
       "title": "/vr/ - Retro Games",
@@ -421,6 +661,66 @@
         "bumpLimit": 300,
         "noSpoilers": false,
         "noSpoilerReplies": false,
+        "postsPerPage": 15
+      }
+    },
+    "vrpg": {
+      "directoryCode": "vrpg",
+      "title": "/vrpg/ - Video Games/RPG",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": false,
+        "noSpoilerReplies": false,
+        "postsPerPage": 15
+      }
+    },
+    "vst": {
+      "directoryCode": "vst",
+      "title": "/vst/ - Video Games/Strategy",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": false,
+        "noSpoilerReplies": false,
+        "postsPerPage": 15
+      }
+    },
+    "vt": {
+      "directoryCode": "vt",
+      "title": "/vt/ - Virtual YouTubers",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": false,
+        "noSpoilerReplies": false,
+        "postsPerPage": 15
+      }
+    },
+    "w": {
+      "directoryCode": "w",
+      "title": "/w/ - Anime/Wallpapers",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": true,
+        "noSpoilerReplies": true,
         "postsPerPage": 15
       }
     },
@@ -439,9 +739,39 @@
         "postsPerPage": 15
       }
     },
+    "wsr": {
+      "directoryCode": "wsr",
+      "title": "/wsr/ - Worksafe Requests",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": true,
+        "noSpoilerReplies": true,
+        "postsPerPage": 15
+      }
+    },
     "x": {
       "directoryCode": "x",
       "title": "/x/ - Paranormal",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": true,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": true,
+        "noSpoilerReplies": true,
+        "postsPerPage": 15
+      }
+    },
+    "xs": {
+      "directoryCode": "xs",
+      "title": "/xs/ - Extreme Sports",
       "features": {
         "pseudonymityMode": "per-reply",
         "safeForWork": true,
