@@ -2,7 +2,7 @@
   "title": "5chan Directory Defaults",
   "description": "Expected 5chan UX defaults by directory code. These defaults apply to the directory, not to individual candidate boards.",
   "createdAt": 1779262179,
-  "updatedAt": 1779357555,
+  "updatedAt": 1779523735,
   "directories": {
     "3": {
       "directoryCode": "3",
@@ -214,6 +214,21 @@
         "postsPerPage": 15
       }
     },
+    "gd": {
+      "directoryCode": "gd",
+      "title": "/gd/ - Graphic Design",
+      "features": {
+        "noSpoilers": true,
+        "noSpoilerReplies": true,
+        "safeForWork": true,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "pseudonymityMode": "per-reply",
+        "hasFlags": false,
+        "bumpLimit": 300,
+        "postsPerPage": 15
+      }
+    },
     "gif": {
       "directoryCode": "gif",
       "title": "/gif/ - Adult GIF",
@@ -271,6 +286,21 @@
         "bumpLimit": 300,
         "noSpoilers": true,
         "noSpoilerReplies": true,
+        "postsPerPage": 15
+      }
+    },
+    "jp": {
+      "directoryCode": "jp",
+      "title": "/jp/ - Otaku Culture",
+      "features": {
+        "noSpoilers": false,
+        "noSpoilerReplies": false,
+        "safeForWork": true,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "pseudonymityMode": "per-reply",
+        "hasFlags": false,
+        "bumpLimit": 300,
         "postsPerPage": 15
       }
     },
@@ -424,6 +454,21 @@
         "postsPerPage": 15
       }
     },
+    "po": {
+      "directoryCode": "po",
+      "title": "/po/ - Papercraft & Origami",
+      "features": {
+        "noSpoilers": true,
+        "noSpoilerReplies": true,
+        "safeForWork": true,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "pseudonymityMode": "per-reply",
+        "hasFlags": false,
+        "bumpLimit": 300,
+        "postsPerPage": 15
+      }
+    },
     "pol": {
       "directoryCode": "pol",
       "title": "/pol/ - Politically Incorrect",
@@ -451,6 +496,51 @@
         "bumpLimit": 300,
         "noSpoilers": true,
         "noSpoilerReplies": true,
+        "postsPerPage": 15
+      }
+    },
+    "qst": {
+      "directoryCode": "qst",
+      "title": "/qst/ - Quests",
+      "features": {
+        "noSpoilers": false,
+        "noSpoilerReplies": false,
+        "safeForWork": true,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "pseudonymityMode": "per-reply",
+        "hasFlags": false,
+        "bumpLimit": 300,
+        "postsPerPage": 15
+      }
+    },
+    "r9k": {
+      "directoryCode": "r9k",
+      "title": "/r9k/ - ROBOT9001",
+      "features": {
+        "noSpoilers": false,
+        "noSpoilerReplies": false,
+        "safeForWork": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "pseudonymityMode": "per-reply",
+        "hasFlags": false,
+        "bumpLimit": 300,
+        "postsPerPage": 15
+      }
+    },
+    "s5s": {
+      "directoryCode": "s5s",
+      "title": "/s5s/ - Shit 5chan Says",
+      "features": {
+        "noSpoilers": false,
+        "noSpoilerReplies": false,
+        "safeForWork": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "pseudonymityMode": "per-reply",
+        "hasFlags": false,
+        "bumpLimit": 300,
         "postsPerPage": 15
       }
     },
@@ -634,6 +724,21 @@
         "postsPerPage": 15
       }
     },
+    "vmg": {
+      "directoryCode": "vmg",
+      "title": "/vmg/ - Video Games/Mobile",
+      "features": {
+        "noSpoilers": false,
+        "noSpoilerReplies": false,
+        "safeForWork": true,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "pseudonymityMode": "per-reply",
+        "hasFlags": false,
+        "bumpLimit": 300,
+        "postsPerPage": 15
+      }
+    },
     "vp": {
       "directoryCode": "vp",
       "title": "/vp/ - Pokémon",
@@ -721,6 +826,21 @@
         "bumpLimit": 300,
         "noSpoilers": true,
         "noSpoilerReplies": true,
+        "postsPerPage": 15
+      }
+    },
+    "wg": {
+      "directoryCode": "wg",
+      "title": "/wg/ - Wallpapers/General",
+      "features": {
+        "noSpoilers": true,
+        "noSpoilerReplies": true,
+        "safeForWork": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "pseudonymityMode": "per-reply",
+        "hasFlags": false,
+        "bumpLimit": 300,
         "postsPerPage": 15
       }
     },
