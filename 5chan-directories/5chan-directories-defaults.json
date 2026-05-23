@@ -2,7 +2,7 @@
   "title": "5chan Directory Defaults",
   "description": "Expected 5chan UX defaults by directory code. These defaults apply to the directory, not to individual candidate boards.",
   "createdAt": 1779262179,
-  "updatedAt": 1779523735,
+  "updatedAt": 1779525738,
   "directories": {
     "3": {
       "directoryCode": "3",
@@ -516,7 +516,7 @@
     },
     "r9k": {
       "directoryCode": "r9k",
-      "title": "/r9k/ - ROBOT9001",
+      "title": "/r9k/ - ROBOT9002",
       "features": {
         "noSpoilers": false,
         "noSpoilerReplies": false,
