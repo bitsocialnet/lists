@@ -2,7 +2,7 @@
   "title": "5chan Directory Defaults",
   "description": "Expected 5chan UX defaults by directory code. These defaults apply to the directory, not to individual candidate boards.",
   "createdAt": 1779262179,
-  "updatedAt": 1780048464,
+  "updatedAt": 1780123897,
   "directories": {
     "3": {
       "directoryCode": "3",
@@ -44,6 +44,26 @@
         "The discussion of \"live action\" television shows is permitted so long as they are distinctly rooted in, or based off of an anime or manga series.",
         "Japanese visual novels should be posted in /jp/, and Western on /vg/.",
         "Threads should be created with substantial OP text containing a meaningful topic of discussion. Please refrain from posting catch-phrase or template threads."
+      ]
+    },
+    "f": {
+      "directoryCode": "f",
+      "title": "/f/ - Flash",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": false,
+        "hasFlags": false,
+        "postFlairs": true,
+        "requirePostFlairs": true,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": false,
+        "bumpLimit": 300,
+        "noSpoilers": true,
+        "noSpoilerReplies": true,
+        "postsPerPage": 50
+      },
+      "rules": [
+        "The tagging of uploaded files is mandatory. Improperly tagged items may be removed without notice. Abuse of the tagging system may result in temporary ban."
       ]
     },
     "adv": {
