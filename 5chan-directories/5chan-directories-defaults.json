@@ -2,7 +2,7 @@
   "title": "5chan Directory Defaults",
   "description": "Expected 5chan UX defaults by directory code. These defaults apply to the directory, not to individual candidate boards.",
   "createdAt": 1779262179,
-  "updatedAt": 1780123897,
+  "updatedAt": 1780129468,
   "directories": {
     "3": {
       "directoryCode": "3",
@@ -355,6 +355,24 @@
         "2. Discussions about books, poetry, and other forms of literature should be posted on /lit/.",
         "3. Discussions about politics and current events should be posted on /pol/.",
         "4. Please do not start threads about events taking place less than 25 years ago."
+      ]
+    },
+    "i": {
+      "directoryCode": "i",
+      "title": "/i/ - Oekaki",
+      "features": {
+        "pseudonymityMode": "per-reply",
+        "safeForWork": false,
+        "hasFlags": false,
+        "requirePostLink": true,
+        "requirePostLinkIsMedia": true,
+        "bumpLimit": 300,
+        "noSpoilers": true,
+        "noSpoilerReplies": true,
+        "postsPerPage": 15
+      },
+      "rules": [
+        "Oekakis can be random in nature, but please, no \"junk\" drawings. Quality over quantity!"
       ]
     },
     "ic": {
