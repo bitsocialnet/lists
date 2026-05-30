@@ -2,7 +2,7 @@
 
 Community-managed lists consumed by Bitsocial clients (5chan, Seedit).
 
-Submit a pull request to have your community added, or contact devs on Telegram [@bitsocial](https://t.me/bitsocialnet).
+Submit a pull request to have your community added, or contact devs on Telegram [@bitsocialnet](https://t.me/bitsocialnet).
 
 In the future, this process will be automated by voting.
 
@@ -28,14 +28,3 @@ This list is not mandatory on Bitsocial itself, which is fully decentralized: no
 However, the developer of each Bitsocial client effectively holds veto power over the list, since the list has to be manually implemented in the frontend code of the interface/client. If you don't like how a Bitsocial client dev implements this list, you are always free to create your own Bitsocial client, even using your own list.
 
 Our web and desktop clients (Seedit, 5chan) don't use blacklists. You can use our clients to connect to any specific community by using its address, whether it's included in this default list or not.
-
-## NSFW communities
-
-NSFW content is supported, but it might be hidden by default in the client, depending on its target audience.
-
-A NSFW community must have at least 1 of these 4 NSFW tags: "adult", "anti", "gore", "vulgar".
-
-- "adult" (NSFW): all communities with nudity/pornographic content.
-- "anti" (may be considered inappropriate, depending on the client): all communities anti-anything.
-- "gore" (NSFW): all communities with graphic violence/gore/war content.
-- "vulgar" (may be considered inappropriate, depending on the client): all communities with vulgar content.
