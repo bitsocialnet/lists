@@ -1,6 +1,6 @@
-# temporary-default-communities
+# lists
 
-### NOTE: ./subplebbits.json is deprecated, use ./multisub.json instead
+Community-managed lists consumed by Bitsocial clients (5chan, Seedit).
 
 Submit a pull request to have your community added, or contact devs on Telegram [@bitsocial](https://t.me/bitsocialnet).
 
@@ -9,8 +9,9 @@ In the future, this process will be automated by voting.
 ## Repository Layout
 
 - `5chan-directories/5chan-<code>-directory.json`: candidate boards for each 5chan directory code. 5chan builds the active directory list by reading these files and choosing the highest-ranked board in each file.
-- `5chan-directories/5chan-directories-defaults.json`: expected 5chan UX defaults keyed by directory code, including directory identity, title, and feature defaults. These defaults apply to the directory, not to individual candidate boards.
-- Root JSON files are shared lists for other Bitsocial clients or challenge configuration.
+- `5chan-directories/5chan-directories-defaults.json`: expected 5chan UX defaults and rules keyed by directory code, including directory title and feature defaults. These defaults apply to the directory, not to individual candidate boards.
+- `seedit-default-subscriptions.json`: communities Seedit auto-subscribes new users to.
+- `whitelist-challenge.json`: public keys exempted from posting challenges.
 
 >### What is this?
 This list is used to show communities by default in our clients' homepages, automatically subscribing all our users to them.
