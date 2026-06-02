@@ -28,3 +28,7 @@ This list is not mandatory on Bitsocial itself, which is fully decentralized: no
 However, the developer of each Bitsocial client effectively holds veto power over the list, since the list has to be manually implemented in the frontend code of the interface/client. If you don't like how a Bitsocial client dev implements this list, you are always free to create your own Bitsocial client, even using your own list.
 
 Our web and desktop clients (Seedit, 5chan) don't use blacklists. You can use our clients to connect to any specific community by using its address, whether it's included in this default list or not.
+
+## License
+
+GPL-3.0-or-later — see [LICENSE](LICENSE).
