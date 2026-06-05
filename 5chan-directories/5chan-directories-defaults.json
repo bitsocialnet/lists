@@ -748,9 +748,7 @@
         "postsPerPage": 15
       },
       "rules": [
-        "You must check your #fortune in order to post on this board.",
-        "No porn dump threads. Keep that shit on /b/.",
-        "Moderators must check their #fortune as well."
+        "No porn dump threads. Keep that shit on /b/."
       ]
     },
     "sci": {
