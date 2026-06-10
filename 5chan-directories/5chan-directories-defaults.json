@@ -562,7 +562,7 @@
         "safeForWork": true,
         "hasFlags": false,
         "requirePostLink": false,
-        "requirePostLinkIsMedia": false,
+        "requirePostLinkIsMedia": true,
         "bumpLimit": 300,
         "noSpoilers": false,
         "noSpoilerReplies": false,
